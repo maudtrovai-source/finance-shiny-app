@@ -1,3 +1,2 @@
 shiny
 pandas
-sqlite3
