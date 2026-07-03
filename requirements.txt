@@ -1,2 +1,4 @@
 shiny
 pandas
+shinywidgets
+plotly
